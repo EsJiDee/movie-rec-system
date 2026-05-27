@@ -115,7 +115,7 @@ Movie-Recommender-System/
 ```bash
 git clone https://github.com/EsJiDee/movie-rec-system.git
 
-cd Movie-Recommender-System
+cd movie-rec-system
 ```
 
 ---
