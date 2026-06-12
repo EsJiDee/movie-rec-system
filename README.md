@@ -9,6 +9,18 @@
 
 ---
 
+## 📱 Application Preview
+
+Below is a live preview of the web interface. Visitors can input features such as parental education level, lunch type, and preparation courses to generate immediate performance model predictions.
+
+### Home Page Interface
+![App Interface](Screenshots/homepage.png)
+
+### Recomendation
+![App Interface](Screenshots/rec.png)
+
+---
+
 # 📌 Overview
 
 This is a **Content-Based Movie Recommender System** built using **Machine Learning** and **Natural Language Processing (NLP)** techniques. The system recommends movies similar to a user's favorite movie by analyzing metadata such as:
