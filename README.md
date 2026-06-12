@@ -11,7 +11,7 @@
 
 ## 📱 Application Preview
 
-Below is a live preview of the web interface. Visitors can input features such as parental education level, lunch type, and preparation courses to generate immediate performance model predictions.
+Below is a live preview of the web interface. Visitors can input their favourite movie and on clicking Recommend button will get return 5 different movies of same test.
 
 ### Home Page Interface
 ![App Interface](Screenshots/homepage.png)
